@@ -260,24 +260,24 @@ FollowAndrew (2018) Responsive Web Design Tutorial [YouTube video]. Available at
 W3Schools (2026) HTML and CSS Flexbox Layout. Available at: https://www.w3schools.com/htmlcss/htmlcss_layout_flexbox.asp (Accessed: 12 September 2026).
 W3Schools (2026) Web Project: Portfolio. Available at: https://www.w3schools.com/projects/project.php?project=PORTFOLIO001 (Accessed: 14 September 2026).
 ### References for Part 3: 
-Mozilla Developer Network (MDN) (n.d.) JavaScript: Adding interactivity. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity (Accessed: 31 October 2026).
-Mozilla Developer Network (MDN) (n.d.) What is JavaScript? Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript (Accessed: 31 October 2026).
-Mozilla Developer Network (MDN) (n.d.) Introduction to events. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events (Accessed: 31 October 2026).
-Mozilla Developer Network (MDN) (n.d.) DOM scripting introduction. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/DOM_scripting (Accessed: 31 October 2026).
-Mozilla Developer Network (MDN) (n.d.) Client-side form validation. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Form_validation (Accessed: 31 October 2026).
-Mozilla Developer Network (MDN) (n.d.) Forms and buttons in HTML. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_forms (Accessed: 31 October 2026).
-Mozilla Developer Network (MDN) (n.d.) CSS styling basics. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics (Accessed: 31 October 2026).
-Mozilla Developer Network (MDN) (n.d.) CSS layout. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout (Accessed: 31 October 2026).
-Mozilla Developer Network (MDN) (n.d.) Responsive web design. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design (Accessed: 31 October 2026).
-Mozilla Developer Network (MDN) (n.d.) CSS transitions. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Transitions (Accessed: 31 October 2026).
-Mozilla Developer Network (MDN) (n.d.) Using CSS transitions. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Transitions/Using (Accessed: 31 October 2026).
-Mozilla Developer Network (MDN) (n.d.) CSS and JavaScript accessibility best practices. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/CSS_and_JavaScript (Accessed: 31 October 2026).
-Mozilla Developer Network (MDN) (n.d.) JavaScript performance optimization. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Performance/JavaScript (Accessed: 31 October 2026).
+Mozilla Developer Network (MDN) (n.d.) JavaScript: Adding interactivity. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity (Accessed: 01 October 2026).
+Mozilla Developer Network (MDN) (n.d.) What is JavaScript? Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript (Accessed: 03 October 2026).
+Mozilla Developer Network (MDN) (n.d.) Introduction to events. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events (Accessed: 05 October 2026).
+Mozilla Developer Network (MDN) (n.d.) DOM scripting introduction. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/DOM_scripting (Accessed: 07 October 2026).
+Mozilla Developer Network (MDN) (n.d.) Client-side form validation. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Form_validation (Accessed: 09 October 2026).
+Mozilla Developer Network (MDN) (n.d.) Forms and buttons in HTML. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_forms (Accessed: 11 October 2026).
+Mozilla Developer Network (MDN) (n.d.) CSS styling basics. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics (Accessed: 13 October 2026).
+Mozilla Developer Network (MDN) (n.d.) CSS layout. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout (Accessed: 15 October 2026).
+Mozilla Developer Network (MDN) (n.d.) Responsive web design. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design (Accessed: 17 October 2026).
+Mozilla Developer Network (MDN) (n.d.) CSS transitions. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Transitions (Accessed: 19 October 2026).
+Mozilla Developer Network (MDN) (n.d.) Using CSS transitions. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Transitions/Using (Accessed: 21 October 2026).
+Mozilla Developer Network (MDN) (n.d.) CSS and JavaScript accessibility best practices. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/CSS_and_JavaScript (Accessed: 23 October 2026).
+Mozilla Developer Network (MDN) (n.d.) JavaScript performance optimization. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Performance/JavaScript (Accessed: 25 October 2026).
 World Wide Web Consortium (W3C) (2024) Web Content Accessibility Guidelines (WCAG) 2.2. Available at: https://www.w3.org/TR/WCAG22/ (Accessed: 31 October 2026).
-World Wide Web Consortium (W3C) (n.d.) Validators and tools. Available at: https://www.w3.org/developers/tools/ (Accessed: 31 October 2026).
+World Wide Web Consortium (W3C) (n.d.) Validators and tools. Available at: https://www.w3.org/developers/tools/ (Accessed: 27 October 2026).
 OWASP Foundation (n.d.) Input Validation Cheat Sheet. Available at: https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html (Accessed: 31 October 2026).
-WHATWG (2026) HTML Living Standard. Available at: https://html.spec.whatwg.org/ (Accessed: 31 October 2026).
-Mozilla Developer Network (MDN) (n.d.) The web standards model. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/The_web_standards_model (Accessed: 31 October 2026).
+WHATWG (2026) HTML Living Standard. Available at: https://html.spec.whatwg.org/ (Accessed: 01 November 2026).
+Mozilla Developer Network (MDN) (n.d.) The web standards model. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/The_web_standards_model (Accessed: 02 November 2026).
   
  
    
